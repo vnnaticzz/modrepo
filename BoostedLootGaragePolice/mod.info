@@ -1,0 +1,5 @@
+name=Boosted Loot — Garage & Police+
+id=BoostedLootGaragePolice
+description=Boosts Sledgehammer spawn in garages/warehouses, increases weapons/ammo in houses and police, and boosts food spawns (singleplayer). Sandbox-configurable.
+version=1.0
+require=base
