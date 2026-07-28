@@ -1,0 +1,11 @@
+-- CustomizeLootSpawns/common/media/sandbox-options.txt
+-- Add sandbox options for loot multipliers
+-- Note: Project Zomboid expects a specific format in sandbox-options.txt; many mods use a Lua table format.
+-- We'll use the plain text key/value approach that the game reads from the file structure.
+
+CustomizeLootSpawns = {
+  Sledgehammer = 5.0,
+  Firearms = 5.0,
+  Melee = 5.0,
+  Food = 5.0
+}
