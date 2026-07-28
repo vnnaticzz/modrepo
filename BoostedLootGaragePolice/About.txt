@@ -1,0 +1,10 @@
+Boosted Loot — Garage & Police+
+================================
+
+Fitur:
+- Sledgehammer lebih sering muncul di garasi / gudang (default 5x).
+- Senjata & amunisi lebih sering muncul di rumah dan kantor polisi (default 5x).
+- Makanan & minuman lebih melimpah (default 5x).
+
+Konfigurasi tersedia di menu Sandbox (BoostedLoot) atau melalui file sandbox defaults di media/lua/shared.
+Aktifkan mod ini sebelum membuat world/character baru untuk melihat efek penuh.
