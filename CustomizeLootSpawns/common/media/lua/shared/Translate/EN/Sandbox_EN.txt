@@ -1,0 +1,11 @@
+CustomizeLootSpawns_Sledgehammer = "Sledgehammer spawn multiplier"
+CustomizeLootSpawns_Sledgehammer_tooltip = "Multiply the spawn weight of sledgehammers."
+
+CustomizeLootSpawns_Firearms = "Firearms spawn multiplier"
+CustomizeLootSpawns_Firearms_tooltip = "Multiply the spawn weight of firearms and ammo."
+
+CustomizeLootSpawns_Melee = "Melee weapons spawn multiplier"
+CustomizeLootSpawns_Melee_tooltip = "Multiply the spawn weight of melee weapons (axes, bats, etc.)."
+
+CustomizeLootSpawns_Food = "Food spawn multiplier"
+CustomizeLootSpawns_Food_tooltip = "Multiply the spawn weight of food items."
